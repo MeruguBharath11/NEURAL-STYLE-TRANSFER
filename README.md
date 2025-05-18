@@ -18,4 +18,4 @@ In this project, I implemented Neural Style Transfer using PyTorch to blend the 
 
 
 
-OUTPUT:
+OUTPUT:![Image](https://github.com/user-attachments/assets/f5f0e337-be1e-4529-b1ee-4323b408f36f)
